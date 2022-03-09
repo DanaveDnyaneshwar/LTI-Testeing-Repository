@@ -7,3 +7,12 @@ System.out.println("log in TC2")
 
 
 }
+public class Tescript{
+@Test
+public void TC2(){
+System.out.println("log in TC2")
+
+}
+
+
+}
